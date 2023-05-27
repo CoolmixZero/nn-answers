@@ -36,11 +36,11 @@
 7. Ako je možné použiť fuzzy logiku na urýchlenie BP učenia?
 8. Kde sa dajú využiť time-delay NN?
 9. Aké sú vaše komentáre na nasledovné problémy pri návrhu a činnosti NN?
-a. Akou topológiou začať?
-b. Ako hladať optimálnu topológiu ? Koľko je potrebných skrytých vrstiev NN?
-c. čo znamená univerzálna aproximačná teória?
-d. Aká by bola ideálna forma inicializácie?
-e. Má veľkosť trénovacej množiny význam pri kontrolovanom učení?
+    - Akou topológiou začať?
+    - Ako hladať optimálnu topológiu ? Koľko je potrebných skrytých vrstiev NN?
+    - čo znamená univerzálna aproximačná teória?
+    - Aká by bola ideálna forma inicializácie?
+    - Má veľkosť trénovacej množiny význam pri kontrolovanom učení?
 
 - ## 3. tutoriál
 1. Aká je logika nekontrolovaného učenia? Ake typy úloh sa dajú riešiť na dopredných sieťach s takýmto typom učenia?
